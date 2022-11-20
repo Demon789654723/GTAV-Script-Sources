@@ -473,17 +473,17 @@ public class BodyguardSquads : Script
         "s_m_y_blackops_03"
     };
 
-    List<String> PrivateSecurityModels = new List<String>
+    List<String> PoliceModels = new List<String>
 {
 
-    "s_m_m_highsec_01",
-    "s_m_m_highsec_02",
+    "g_m_y_swat_01",
+    "g_m_y_cop_01",
     "s_m_y_doorman_01",
     "s_m_y_devinsec_01"
 };
     List<String> BallasModels = new List<String>
 {
-        "g_f_y_ballas_01",
+        "g_m_y_ballasout_01",
         "g_m_y_ballaeast_01",
         "g_m_y_ballaorig_01",
         "g_m_y_ballasout_01",
@@ -492,8 +492,8 @@ public class BodyguardSquads : Script
 
     List<String> FamiliesModels = new List<String>
 {
-        "mp_m_famdd_01",
-        "g_f_y_families_01",
+        "g_m_y_famca_01",
+        "g_m_y_famfor_01",
         "g_m_y_famca_01",
         "g_m_y_famdnf_01",
         "g_m_y_famfor_01"
@@ -506,23 +506,27 @@ public class BodyguardSquads : Script
         "g_f_y_lost_01",
 };
 
-    List<String> RedneckModels = new List<String>
+    List<String> Marabunta GrandeModels = new List<String>
 {
-        "a_m_m_hillbilly_01",
-        "a_m_m_hillbilly_02"
+        "g_m_y_salvagoon_01",
+        "g_m_y_salvagoon_02"
+        "g_m_y_salvagoon_03"
+        "g_m_y_salvaboss_01"
 };
 
-    List<String> SWATModels = new List<String>
+    List<String> Madrazo CartelModels = new List<String>
 {
-        "s_m_y_swat_01",
+        "g_m_y_pologoon_01",
+        "g_m_y_mexgang_01",
 
 };
 
-    List<String> PoliceModels = new List<String>
+    List<String> VagosModels = new List<String>
 {
 
-        "s_f_y_cop_01",
-        "s_m_y_cop_01"
+        "g_m_y_mexgoon_01",
+        "g_m_y_mexgoon_02",
+        "g_m_y_mexgoon_03",
 };
 
     ///EMPTY CUSTOM MODEL LISTS TO FILL AT START
